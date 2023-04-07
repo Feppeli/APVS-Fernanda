@@ -1,0 +1,120 @@
+.contactBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+}
+
+.contactBox1 img{
+    width: 600px;
+    margin-bottom: -10px;
+    
+}
+
+
+
+
+.contactBox2 img{
+    width: 400px;
+}
+
+.contactBox2 form{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.contactBox2 input{
+    margin: 10px;
+
+    height: 25px;
+    padding: 10px;
+    border: none;
+    background: #d9d9d9;
+    border-radius: 5px;
+}
+
+.contactBox2 p{
+    max-width: 400px;
+    margin: auto
+    10px;
+}
+
+.contactBox2 button{
+    margin: 10px;
+    width: 130px;
+    height: 35px;
+    background: #012F46;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+
+
+#wave{
+    position:absolute ;
+    margin-top: 620px;
+    min-width: 100%;
+
+}
+
+@media(max-width:1440px){
+    #wave{
+        max-width: 100%;
+    }
+}
+
+@media(max-width:1180px){
+
+    .contactBox1 img{
+        /* width: 100%; */
+    }
+    #wave{
+        max-width: 100%;
+        margin-top: 1200px;
+    }
+}
+
+@media(max-width:500px){
+    #wave{
+        margin-top: 1250px;
+    }
+}
+
+@media(max-width:500px){
+    .contactBox2 img{
+        width: 80%;
+    }
+
+    .contactBox2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contactBox2 form{
+        width: 350px;
+    }
+}
+
+/* @media(max-width:1330px){
+    #wave{
+        margin-top: 700px;
+    }
+} */
+
+@media(max-width:620px){
+    .contactBox1 img{
+        max-width: 100%;
+        display: none;
+    }
+    .contactBox2 img{
+        margin-top: 60px;
+    }
+
+    #wave{
+        display: none;
+    }
+}

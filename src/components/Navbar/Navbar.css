@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.logo{
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.links a{
+    margin: 15px;
+    text-decoration: none;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 100;
+    color: #ffffff76;
+
+}
+@media(max-width:700px){
+    .links{
+        display: none;
+    }
+}
+
+.links a:hover{
+    color: #fff;
+
+    transition: .7s;
+    border-radius: 2px;
+}

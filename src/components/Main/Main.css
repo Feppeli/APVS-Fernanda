@@ -1,0 +1,102 @@
+.Mainbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+
+.Mainbox div{
+    width: 50%;
+}
+
+.main1 h1{
+    font-size: 30px;
+}
+
+.main2{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+#image_main{
+    width: 90%;
+    margin-left: 90px;
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes floating{
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }   
+}
+
+.mainButton{
+    display: flex;
+}
+.mainButton a {
+    text-decoration: none;
+    color: #fff;
+    background: var(--azul);
+
+    padding: 15px 26px;
+    border-radius: 50px;
+}
+
+
+#analiseBox{
+    background: linear-gradient(90deg, rgba(255, 188, 20, 0.76) 0%, rgba(255, 200, 61, 0.11) 100%);
+
+}
+.main1 h4{
+    margin-left: 5px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.Mainbox{
+    color: #3d3d3d;
+}
+.mainButton a:hover{
+    color: var(--azul);
+    background: #fff;
+    border: 1px solid var(--azul);
+    transition: .7s;
+    box-shadow: 2px 3px var(--azul);
+
+
+}
+
+
+@media(max-width: 820px){
+    .main1 h1{
+        font-size: 16px;
+    }
+}
+
+@media (min-width:1100px){
+    .main1 h1{
+        font-size: 24px;
+    }
+    .main1 h4{
+        font-size: 16px;
+    }
+}
+
+
+@media (max-width:500px){
+    .Mainbox{
+        flex-direction: column-reverse;
+    }
+    .Mainbox div{
+        width: 100%;
+    }
+
+    .main1{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}
