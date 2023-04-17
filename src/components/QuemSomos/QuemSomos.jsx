@@ -6,7 +6,7 @@ import descriptionImage3 from "../../assets/about/Group 3.png";
 const QuemSomos = () => {
   return (
     <div className=" aboutContainer container">
-      <div className="about1">
+      <div className="about1" id="about1">
         <div className="aboutBox1">
           <div className="aboutDescription">
             <img src={descriptionImage} alt="" />

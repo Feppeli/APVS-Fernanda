@@ -19,11 +19,11 @@ const Contact = () => {
   }
 
   return (
-    <div className="contactBox container">
-      <div className="contactBox1">
+    <div className="contactBox container" id='cotacao'>
+      <div className="contactBox1" id='parceiro'>
         <img src={Homem} alt="" />
       </div>
-      <div className="contactBox2">
+      <div className="contactBox2" id='contato1'>
         <img src={ImgForm} alt="" />
         <form >
           <input id="nome" type="text" placeholder="Nome" required />

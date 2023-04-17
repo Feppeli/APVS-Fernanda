@@ -7,10 +7,10 @@ const Navbar = () => {
                 <h1>APVS</h1>
             </div>
             <div className="links">
-                <a href="quem somos">quem somos</a>
-                <a href="contato">Contato</a>
-                <a href="parceiro">parceiro</a>
-                <a href="cotação">cotação</a>
+                <a href="#about1">quem somos</a>
+                <a href="#contato1">Contato</a>
+                <a href="#parceiro">parceiro</a>
+                <a href="#cotacao">cotação</a>
             </div>
         </nav>
     )
