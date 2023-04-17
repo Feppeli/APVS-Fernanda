@@ -12,28 +12,28 @@ const Seguros = () => {
         <img src={Moto} alt="" />
         <ul>
           <li>
-            <p>Furto</p>
+            <p>Roubo / Furto</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Colisão</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Perda Total</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Fenômenos da natureza</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Assitência 24h</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Suporte elétrico</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Rastreador</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>E muito mais!</p>
           </li>
         </ul>
 
@@ -46,28 +46,28 @@ const Seguros = () => {
         <img src={Carro} alt="" />
         <ul>
           <li>
-            <p>Furto</p>
+            <p>Roubo / Furto</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Colisão</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Perda Total</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Fenômenos da natureza</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Assitência 24h</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Suporte elétrico</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Rastreador</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>E muito mais!</p>
           </li>
         </ul>
 
@@ -80,28 +80,28 @@ const Seguros = () => {
         <img src={Caminhão} alt="" />
         <ul>
           <li>
-            <p>Furto</p>
+            <p>Roubo / Furto</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Colisão</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Perda Total</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Fenômenos da natureza</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Assitência 24h</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Suporte elétrico</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>Rastreador</p>
           </li>
           <li>
-            <p>Furto</p>
+            <p>E muito mais!</p>
           </li>
         </ul>
 

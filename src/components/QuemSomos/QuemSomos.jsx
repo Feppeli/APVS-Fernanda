@@ -37,15 +37,7 @@ const QuemSomos = () => {
           </div>
         </div>
         <div className="aboutBox2">
-          <iframe
-            width="585"
-            height="330"
-            src="https://www.youtube.com/embed/orAvo-u5Gmg"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay = true; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+          <iframe width="585" height="330" src="https://www.youtube.com/embed/htfN2qwwqck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </div>
 
