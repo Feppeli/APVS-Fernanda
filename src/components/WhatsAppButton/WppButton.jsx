@@ -4,7 +4,7 @@ import wpp from "../../assets/wpp/whatsapp.png"
 const WppButton = () => {
     return(
         <div className="wppbutton">
-            <a  href="" className="">  
+            <a  href="https://wa.me/5581987672145?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Veículo" className="">  
                 <img src={wpp} alt="" />
                 Entre em contato
             </a>
