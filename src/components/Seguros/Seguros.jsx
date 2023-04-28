@@ -38,7 +38,7 @@ const Seguros = () => {
         </ul>
 
         <div className="serviceButton">
-          <a href="https://wa.me/5581987672145?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+da+minha+moto" target="_blank">Simular</a>
+          <a href="https://wa.me/558199697185?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+da+minha+moto" target="_blank">Simular</a>
         </div>
       </div>
       <div className="serviceBox">
@@ -72,7 +72,7 @@ const Seguros = () => {
         </ul>
 
         <div className="serviceButton">
-          <a href="https://wa.me/5581987672145?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Carro" target="_blank">Simular</a>
+          <a href="https://wa.me/558199697185?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Carro" target="_blank">Simular</a>
         </div>
       </div>
       <div className="serviceBox">
@@ -106,7 +106,7 @@ const Seguros = () => {
         </ul>
 
         <div className="serviceButton">
-          <a href="https://wa.me/5581987672145?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Caminhão" target="_blank">Simular</a>
+          <a href="https://wa.me/558199697185?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Caminhão" target="_blank">Simular</a>
         </div>
       </div>
     </div>

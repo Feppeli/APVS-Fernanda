@@ -12,10 +12,10 @@ const Contact = () => {
     let modelo = document.querySelector("#modelo")
     let telefone = document.querySelector("#telefone")
 
-    /* var url = `https://wa.me/5581987672145?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.` */
-    /* alert(`https://wa.me/5581987672145?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`) */
-    window.open(`https://wa.me/5581987672145?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`, "_blank")
-    /* window.location.href = `https://wa.me/5581987672145?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`; */
+    /* var url = `https://wa.me/55819697185?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.` */
+    /* alert(`https://wa.me/55819697185?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`) */
+    window.open(`https://wa.me/55819697185?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`, "_blank")
+    /* window.location.href = `https://wa.me/55819697185?text=Ol%C3%A1%2C+sou+${nome.value}.+Gostaria+de+fazer+cota%C3%A7%C3%A3o+no+meu+ve%C3%ADculo%3A+${modelo.value}%2C+deixo+aqui+meu+numero+para+cotato%3A+${telefone.value}.`; */
   }
 
   return (

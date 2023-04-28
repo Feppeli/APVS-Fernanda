@@ -16,7 +16,7 @@ const Main = () => {
                 <br />
 
                 <div className="mainButton">
-                    <a href="https://wa.me/5581987672145?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Veículo">
+                    <a href="https://wa.me/558196971854?text=Ol%C3%A1%2C+gostaria+de+fazer+uma+cota%C3%A7%C3%A3o+do+meu+Veículo">
                         FAZER COTAÇÃO
                     </a>
                 </div>
